@@ -1,0 +1,8 @@
+C:\EspressoWorkspace\MKL46Z4_BootLoader\CMSIS/core_cm0plus.h:733:22:__NVIC_EnableIRQ	16	static
+C:\EspressoWorkspace\MKL46Z4_BootLoader\CMSIS/core_cm0plus.h:769:22:__NVIC_DisableIRQ	16	static
+../Drivers/UART.c:9:6:UART0_Init	24	static
+../Drivers/UART.c:40:6:UART0_DeInit	8	static
+../Drivers/UART.c:50:6:UART_ReceiveINT	8	static
+../Drivers/UART.c:60:6:UART_DisableRxINT	8	static
+../Drivers/UART.c:69:6:UART_SendChar	16	static
+../Drivers/UART.c:88:6:UART_SendString	24	static

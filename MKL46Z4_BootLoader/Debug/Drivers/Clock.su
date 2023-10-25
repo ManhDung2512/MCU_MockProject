@@ -1,0 +1,2 @@
+../Drivers/Clock.c:10:6:Clock_Init	8	static
+../Drivers/Clock.c:38:6:Clock_DeInit	8	static

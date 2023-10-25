@@ -1,0 +1,3 @@
+../Drivers/Flash.c:10:6:Flash_WriteWord	16	static
+../Drivers/Flash.c:32:6:Flash_EraseSector	24	static
+../Drivers/Flash.c:50:6:Flash_ReadSector	24	static

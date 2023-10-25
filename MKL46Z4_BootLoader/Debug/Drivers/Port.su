@@ -1,0 +1,8 @@
+C:\EspressoWorkspace\MKL46Z4_BootLoader\CMSIS/core_cm0plus.h:733:22:__NVIC_EnableIRQ	16	static
+../Drivers/Port.c:43:20:PORT_Init	32	static
+../Drivers/Port.c:100:6:PORT_DeInit	16	static
+../Drivers/Port.c:111:34:PORT_CheckValidBase	24	static
+../Drivers/Port.c:128:20:PORT_ClearInterruptFlag	16	static
+../Drivers/Port.c:135:23:PORT_ReadInterruptFlag	24	static
+../Drivers/Port.c:149:6:PORTC_PORTD_IRQHandler	24	static
+../Drivers/Port.c:180:6:PORTA_IRQHandler	24	static

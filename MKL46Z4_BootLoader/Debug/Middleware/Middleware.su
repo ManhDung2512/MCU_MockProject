@@ -1,0 +1,9 @@
+../Middleware/Middleware.c:12:6:Boot_JumpToFirm	32	static
+../Middleware/Middleware.c:35:6:BootChangeDefaultFirm	16	static
+../Middleware/Middleware.c:43:6:BootSendACK	24	static
+../Middleware/Middleware.c:64:6:Boot_Init	8	static
+../Middleware/Middleware.c:70:6:Boot_DeInit	8	static
+../Middleware/Middleware.c:79:6:SW2_Init	32	static
+../Middleware/Middleware.c:96:6:SW2_DeInit	8	static
+../Middleware/Middleware.c:101:6:BootErrorHanlder	24	static
+../Middleware/Middleware.c:119:18:SW2_ReadState	8	static

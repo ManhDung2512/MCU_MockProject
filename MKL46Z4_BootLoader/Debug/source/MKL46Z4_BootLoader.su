@@ -1,0 +1,8 @@
+../source/MKL46Z4_BootLoader.c:37:23:ChartoDec	24	static
+../source/MKL46Z4_BootLoader.c:52:20:UART_SrecHandler	16	static
+../source/MKL46Z4_BootLoader.c:157:20:UART_CMDHandler	8	static
+../source/MKL46Z4_BootLoader.c:195:24:bigToLittleEndian	24	static
+../source/MKL46Z4_BootLoader.c:200:20:delay_ms	16	static
+../source/MKL46Z4_BootLoader.c:208:6:main	8	static
+../source/MKL46Z4_BootLoader.c:222:6:BootUpdateMode	16	static
+../source/MKL46Z4_BootLoader.c:299:6:UART0_IRQHandler	8	static

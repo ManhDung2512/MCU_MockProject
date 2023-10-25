@@ -1,0 +1,7 @@
+../Drivers/GPIO.c:18:35:GPIO_CheckValidBase	24	static
+../Drivers/GPIO.c:35:15:GPIO_ReadInput	16	static
+../Drivers/GPIO.c:40:6:GPIO_ClearOutput	16	static
+../Drivers/GPIO.c:45:6:GPIO_SetOutput	16	static
+../Drivers/GPIO.c:50:6:GPIO_ToggleOutput	16	static
+../Drivers/GPIO.c:55:21:GPIO_Init	24	static
+../Drivers/GPIO.c:87:6:GPIO_DeInit	16	static
